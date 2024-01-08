@@ -1,8 +1,8 @@
  
 
-### Hi there 👋, I'm Samuel Marandi
+### Hi, I'm Samuel Marandi 👋
 #### Web Developer
-I am a front-end developer with three years of professional experience. My skill set encompasses HTML, CSS, JavaScript, Tailwind CSS, React.js, and Next.js. I also possess a basic understanding of Node.js. With a passion for crafting engaging and user-friendly interfaces, I am dedicated to staying current with industry trends and technologies. I am eager to contribute my expertise to innovative web development projects
+I am a front-end developer with three years of professional experience. My skill set encompasses HTML, CSS, JavaScript, Tailwind CSS, React.js, and Next.js. I also possess a basic understanding of Node.js. With a passion for crafting engaging and user-friendly interfaces, I am dedicated to staying current with industry trends and technologies. I am eager to contribute my expertise to innovative web development projects.
 
 Skills:  HTML / CSS/  JS / TAILWIND CSS / REACT /  NEXT/ NODE
 
