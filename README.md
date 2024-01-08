@@ -3,7 +3,7 @@
 ### Hi, I'm Samuel Marandi 👋
 
 <p>
-👨‍🎓 I am Web Developer. <br> 
+👨‍🎓 I'm a Web Developer. <br> 
 📗 I love to learn new things every day. <br> 
 🪔 I like to help and share my knowledge. </p> 
 
