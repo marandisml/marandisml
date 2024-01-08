@@ -13,7 +13,7 @@
 ##  🙏 About Me
 I'm a front-end developer with three years of professional experience. My skill set encompasses HTML, CSS, JavaScript, Tailwind CSS, React.js, and Next.js. I also possess a basic understanding of Node.js. With a passion for crafting engaging and user-friendly interfaces, I am dedicated to staying current with industry trends and technologies. I am eager to contribute my expertise to innovative web development projects.
 
-## 🎯 Skills & Experiance: 
+## 🎯 Skills & Experiance 
 ✅ React.js & Next.js <br> 
 ✅ JavaScript <br>
 ✅ Node.js <br>
