@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/416348146_212549588590999_2046022071921973529_n.png?stp=dst-png_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=783fdb&_nc_ohc=sWw7hdCSM3sAX-oKMu-&_nc_ht=scontent.fdac152-1.fna&oh=00_AfC-KYX7_gT9zWRLnft9Ag27beSTIirUlA-iGbFN86o-MQ&oe=65A13415)
+ 
 
 ### Hi there 👋, I'm Samuel Marandi
 #### Web Developer
